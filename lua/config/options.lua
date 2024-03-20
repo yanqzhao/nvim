@@ -8,6 +8,7 @@ opt.softtabstop = 4
 opt.shiftwidth = 4
 opt.expandtab = true
 opt.autoindent = true
+opt.colorcolumn = "80"
 
 -- 禁止自动格式化
 vim.g.autoformat = false
